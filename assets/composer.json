@@ -1,0 +1,12 @@
+{
+    "name": "tamizh17/php",
+    "autoload": {
+        "psr-4": {
+            "Tamizh17\\Php\\": "src/"
+        }
+    },
+    "require": {
+        "predis/predis": "^2.2",
+        "mongodb/mongodb": "^1.12"
+    }
+}
